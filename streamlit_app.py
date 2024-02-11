@@ -1,7 +1,7 @@
 import streamlit as st
 
 def main():
-    st.set_page_config(page_title="Iamnrp7", page_icon="🌟"layout="wide")
+    st.set_page_config(page_title="Iamnrp7", page_icon="🌟",layout="wide")
     st.title("Nihar Prajapati's Portfolio")
     
     # Creating columns for layout
